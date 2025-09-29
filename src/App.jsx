@@ -19,7 +19,7 @@ function App() {
             <a href="#methodology">Methodology</a>
             <a href="#results">Results</a>
             <a href="#visualizations">Visualizations</a>
-            <a href="#gallery">Gallery</a>
+            {/* <a href="#gallery">Gallery</a> */}
           </nav>
           <i className="bx bx-search" id="search-icon"></i>
         </div>
@@ -28,7 +28,7 @@ function App() {
       {/* Home Page Section */}
       <section id="home" className="hero">
         <h1>Humanitarian Attack Analysis</h1>
-        <p>We use statistical learning to detect mental health signals and explain patterns behind user language.</p>
+        <p>We apply statistical and machine learning methods to analyze humanitarian attack data, uncovering key patterns and risk factors.</p>
         <a href="#findings" className="btn">Explore Our Findings</a>
         <a href="#data" className="scroll-down">⬇️ Scroll to explore</a>
       </section>
