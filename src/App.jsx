@@ -139,7 +139,7 @@ function App() {
       <section className="chart-section">
       <h2>Security Incidents Interactive Map</h2>
       <iframe
-        src="/assets/security_incidents_map.html"
+        src="assets/security_incidents_map.html"
         width="70%"
         height="600px"
         title="Security Incidents Map"
